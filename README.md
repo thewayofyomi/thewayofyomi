@@ -1,5 +1,5 @@
 <p align="center"><img width="400" alt="Coding" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> </p>
-<h1 align="center">Hi 👋, I'm Sean Humphreys</h1>
+<h1 align="center">Welcome 👋, I'm Sean Humphreys</h1>
 <h3 align="center">A passionate Full Stack Engineer that enjoys Tech, Gaming & Sports.</h3>
 
 <h3 align="center">Connect with me:</h3>
